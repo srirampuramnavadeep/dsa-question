@@ -1,0 +1,11 @@
+Question:
+you should take a interger and a string and print in a same line and you also want to use the space between interger and string
+solution:
+void solution(){
+  //Code Here
+  int a;
+  string s;
+  string c = " " ;
+  cin >>a>>s;
+  cout<<a<<c <<s;
+}
