@@ -1,0 +1,15 @@
+if else promblem
+solution:
+string solution(int n, int m){
+  //Code Here
+  if (n<m){
+      return "lesser";
+  }
+  else if (n==m){
+      return "equal";
+  }
+  else {
+      return "greater";
+  }
+}
+here first i try cout then the output is not given then i try return then i got the output
